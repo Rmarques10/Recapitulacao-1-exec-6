@@ -1,0 +1,15 @@
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\bin\Debug\net6.0\Recapitulacao 1 exec 6.exe
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\bin\Debug\net6.0\Recapitulacao 1 exec 6.deps.json
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\bin\Debug\net6.0\Recapitulacao 1 exec 6.runtimeconfig.json
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\bin\Debug\net6.0\Recapitulacao 1 exec 6.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\bin\Debug\net6.0\Recapitulacao 1 exec 6.pdb
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\obj\Debug\net6.0\Recapitulacao 1 exec 6.csproj.AssemblyReference.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\obj\Debug\net6.0\Recapitulacao 1 exec 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\obj\Debug\net6.0\Recapitulacao 1 exec 6.AssemblyInfoInputs.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\obj\Debug\net6.0\Recapitulacao 1 exec 6.AssemblyInfo.cs
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\obj\Debug\net6.0\Recapitulacao 1 exec 6.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\obj\Debug\net6.0\Recapitulacao 1 exec 6.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\obj\Debug\net6.0\refint\Recapitulacao 1 exec 6.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\obj\Debug\net6.0\Recapitulacao 1 exec 6.pdb
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\obj\Debug\net6.0\Recapitulacao 1 exec 6.genruntimeconfig.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao 1 exec 6\Recapitulacao 1 exec 6\obj\Debug\net6.0\ref\Recapitulacao 1 exec 6.dll
